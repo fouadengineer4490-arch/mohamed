@@ -1,0 +1,6 @@
+{
+  "name": "Pharma ERP Lite - نظام إدارة مخازن الأدوية والتدفق النقدي",
+  "description": "نظام مالي وتشغيلي متكامل لمخازن الأدوية يربط بين إدارة المخزون وتوقعات المبيعات والتدفق النقدي مع لوحة تحكم وتصدير إكسل حقيقي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
